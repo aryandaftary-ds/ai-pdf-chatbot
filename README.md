@@ -1,5 +1,6 @@
 # AI PDF Chatbot
 
+![Demo](demo.png)
 An AI-powered PDF chatbot built using Python, Streamlit, and Ollama (Llama 3).
 
 ## Features
